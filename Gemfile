@@ -47,3 +47,6 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'omniauth'
+gem 'omniauth-salesforce'
+gem 'dotenv-rails'
